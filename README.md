@@ -6,4 +6,4 @@
   <h3>&nbsp&nbsp&nbsp&nbspPOST请求直接在请求网站后加POST参数</h3>
   有什么问题请联系我,邮箱:Arrowzzzzzz@protonmail.com
   如果忘记了使用方法,额可以在网站后面加上参数readme可以显示使用方法
-  <img src="./image/1.jpg" title="使用说明" alt="Arrowzzzzzz@protonmail.com">
+  <img src="./1.jpg" title="使用说明" alt="Arrowzzzzzz@protonmail.com">
